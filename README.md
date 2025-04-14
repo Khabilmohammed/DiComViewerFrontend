@@ -26,7 +26,7 @@ This is the frontend for the DICOM metadata viewer application built with **Reac
 - npm (version 10.9.2)
 
 ### Usage of the Application
--just run the application using npm run dev.
+-Just run the application using npm run dev.
 -Upload the .dcm file, and then the application will automatically fetch the details of the selected file.
 
 ### Clone the Repository
