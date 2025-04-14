@@ -1,0 +1,52 @@
+.dicom-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dicom-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .dicom-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  
+  .dicom-card {
+    display: flex;
+    align-items: flex-start;
+    padding: 16px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+  }
+  
+  .dicom-icon {
+    font-size: 24px;
+    margin-right: 12px;
+    margin-top: 4px;
+    color: #555;
+  }
+  
+  .dicom-key {
+    font-size: 13px;
+    color: #888;
+    font-weight: 500;
+    margin-bottom: 4px;
+  }
+  
+  .dicom-value {
+    font-size: 15px;
+    color: #222;
+    word-break: break-word;
+  }
+  
