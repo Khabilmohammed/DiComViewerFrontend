@@ -25,6 +25,9 @@ This is the frontend for the DICOM metadata viewer application built with **Reac
 - Node.js (version v22.14.0)
 - npm (version 10.9.2)
 
+### Usage of the Application
+-just run the application using npm run dev.
+-Upload the .dcm file, and then the application will automatically fetch the details of the selected file.
 
 ### Clone the Repository
 ```bash
@@ -32,6 +35,4 @@ git clone https://github.com/yourusername/dicom-frontend.git
 cd dicom-frontend
 
 
-### Usage of the Application
--just run the application using npm run dev.
--Upload the .dcm file, and then the application will automatically fetch the details of the selected file.
+
